@@ -35,6 +35,6 @@ I'm a passionate University of Maryland Computer Science and Mechanical Engineer
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/katywouters/)
-- **[Email]**(katywouters@gmail.com)
+- **[LinkedIn](https://www.linkedin.com/in/katywouters/)**
+- **[Email](katywouters@gmail.com)**
 
