@@ -20,8 +20,8 @@ I'm a passionate University of Maryland Computer Science and Mechanical Engineer
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-Java-red?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-red?style=flat-square)
 
 ## Featured Projects 💻
 
