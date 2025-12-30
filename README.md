@@ -6,10 +6,6 @@
 
 I'm a passionate University of Maryland Computer Science and Mechanical Engineering student with experience in web development, computer systems, OnShape (CAD), and object-oriented programming. I love challenging myself, learning new skills, and working with others to solve problems.
 
-- 🌱 Currently learning: Algorithms
-- 📫 How to reach me: [katywouters@gmail.com](katywouters@gmail.com)
-- ⚡ Fun fact: I like running!
-
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -39,5 +35,6 @@ I'm a passionate University of Maryland Computer Science and Mechanical Engineer
 
 ## Get in Touch 📬
 
-- **[LinkedIn]** [https://www.linkedin.com/in/katywouters/](https://www.linkedin.com/in/katywouters/)
+- **[LinkedIn]**(https://www.linkedin.com/in/katywouters/)
+- **[Email]**(katywouters@gmail.com)
 
