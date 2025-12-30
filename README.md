@@ -4,13 +4,11 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate University of Maryland Computer Science and Mechanical Engineering student with experience in web development, computer systems, OnShape (CAD), and object-oriented programming. I love challenging myself, learning new skills, and working with others to solve problems.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: Algorithms
+- 📫 How to reach me: [katywouters@gmail.com](katywouters@gmail.com)
+- ⚡ Fun fact: I like running!
 
 ## My Skills 🧠
 
@@ -20,9 +18,10 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square)
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-Java-red?style=flat-square)
 
 ## Featured Projects 💻
 
@@ -40,5 +39,5 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**[https://www.linkedin.com/in/katywouters/](https://www.linkedin.com/in/katywouters/)
+- **[LinkedIn]** [https://www.linkedin.com/in/katywouters/](https://www.linkedin.com/in/katywouters/)
 
