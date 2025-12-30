@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Katy! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://images.ctfassets.net/xrhc6s36njjr/5C3H2xFmDFBohNsoKtsSsl/5402f4bf59cb90238ca84b5a97736206/maryland-resized.jpg?w=1200&h=600&fl=progressive&q=50&fm=jpg)
 
 ## About Me 🚀
 
