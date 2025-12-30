@@ -1,6 +1,6 @@
 # Hi there, I'm Katy! 👋
 
-![Banner Image](https://images.ctfassets.net/xrhc6s36njjr/5C3H2xFmDFBohNsoKtsSsl/5402f4bf59cb90238ca84b5a97736206/maryland-resized.jpg?w=1200&h=400&fl=progressive&q=50&fm=jpg)
+![Banner Image](https://umd-main.transforms.svdcdn.com/production/umd/heroes/default/aerial-mall.jpg?w=1920&h=1920&q=80&fm=webp&fit=max&dm=1723836676&s=70c180368c171b6d99c9c07e830eebe6)
 
 ## About Me 🚀
 
