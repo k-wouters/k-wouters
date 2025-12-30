@@ -21,11 +21,11 @@ I'm a passionate University of Maryland Computer Science and Mechanical Engineer
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Dictionary Website](https://github.com/ezhang30umd/DictionaryApp335Final)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+<img width="1440" height="778" alt="dictionaryApp" src="https://github.com/user-attachments/assets/b34fe0e7-ade5-432b-8f04-ce31bb334d92" />
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Dictionary Website** is a website that allows users to search definitions of words and then to store/retrieve the results or display an error built with **JavaScript, HTML/CSS, MongoDB, Node.js, Mongoose, hosting, APIs, Express**. This project demonstrates my ability to **build and render websites**. You can check out the repository [here](https://github.com/ezhang30umd/DictionaryApp335Final).
 
 ### [Project 2 Title](project_2_link)
 
