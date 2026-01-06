@@ -27,12 +27,6 @@ I'm a passionate University of Maryland Computer Science and Mechanical Engineer
 
 **Dictionary Website** is a website that allows users to search definitions of words and then to store/retrieve the results or display an error built with **JavaScript, HTML/CSS, MongoDB, Node.js, Mongoose, hosting, APIs, Express**. This project demonstrates my ability to **build and render websites**. You can check out the repository [here](https://github.com/ezhang30umd/DictionaryApp335Final).
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
 ## Get in Touch 📬
 
 - **[LinkedIn](https://www.linkedin.com/in/katywouters/)**
