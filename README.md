@@ -19,7 +19,7 @@ I'm a passionate University of Maryland Computer Science and Mechanical Engineer
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-red?style=flat-square)
 
-## Featured Projects 💻
+## Featured Project 💻
 
 ### [Dictionary Website](https://github.com/ezhang30umd/DictionaryApp335Final)
 
