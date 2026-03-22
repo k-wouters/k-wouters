@@ -18,8 +18,16 @@ I'm a passionate University of Maryland Computer Science and Mechanical Engineer
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-red?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-## Featured Project 💻
+## Featured Projects 💻
+
+### [F1-GPT: Formula 1 Language Model](https://github.com/k-wouters/f1-gpt)
+
+![F1-GPT Training Loss](https://raw.githubusercontent.com/k-wouters/f1-gpt/main/loss.png)
+
+My **F1-GPT** is a GPT-style language model (~30M parameters) trained from scratch on Formula 1 content — drivers, team histories, circuits, and championship seasons — built with **Python, PyTorch, tiktoken, and the Wikipedia API**. I built and iterated on this project end-to-end using **Claude Code**, Anthropic's AI coding CLI, which allowed me to move from idea to trained model in a single session: designing the architecture, resolving environment issues, and making hardware trade-offs for CPU training. This project demonstrates my ability to **build and train LLMs from scratch while leveraging AI tools to accelerate development**. You can check out the repository [here](https://github.com/k-wouters/f1-gpt).
 
 ### [API Dictionary Website](https://github.com/ezhang30umd/DictionaryApp335Final)
 
@@ -31,4 +39,3 @@ My **Dictionary Website** allows users to search definitions of words and then t
 
 - **[LinkedIn](https://www.linkedin.com/in/katywouters/)**
 - **[Email](mailto:katywouters@gmail.com)**
-
