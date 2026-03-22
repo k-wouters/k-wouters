@@ -27,7 +27,7 @@ I'm a passionate University of Maryland Computer Science and Mechanical Engineer
 
 ![F1-GPT Training Loss](https://raw.githubusercontent.com/k-wouters/f1-gpt/main/loss.png)
 
-My **F1-GPT** is a GPT-style language model (~30M parameters) trained from scratch on Formula 1 content — drivers, team histories, circuits, and championship seasons — built with **Python, PyTorch, tiktoken, and the Wikipedia API**. I built and iterated on this project end-to-end using **Claude Code**, Anthropic's AI coding CLI, which allowed me to move from idea to trained model in a single session: designing the architecture, resolving environment issues, and making hardware trade-offs for CPU training. This project demonstrates my ability to **build and train LLMs from scratch while leveraging AI tools to accelerate development**. You can check out the repository [here](https://github.com/k-wouters/f1-gpt).
+My **F1-GPT** is a GPT-style language model (~30M parameters) trained from scratch on a custom **3.5M character Formula 1 corpus** spanning 100+ Wikipedia articles on drivers, teams, circuits, and championship seasons — built with **Python, PyTorch, tiktoken, and the Wikipedia API**. Train loss dropped from 10.9 → 3.19 over 5 epochs, with the model correctly generating driver names, race results, and championship terminology by the final epoch. I built and iterated on this project end-to-end using **Claude Code**, Anthropic's AI coding CLI, demonstrating my ability to **build and train LLMs from scratch while leveraging AI tools to accelerate development**. You can check out the repository [here](https://github.com/k-wouters/f1-gpt).
 
 ### [API Dictionary Website](https://github.com/ezhang30umd/DictionaryApp335Final)
 
