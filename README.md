@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate University of Maryland Computer Science and Mechanical Engineering student with experience in web development, computer systems, OnShape (CAD), and object-oriented programming. I love challenging myself, learning new skills, and working with others to solve problems.
+I'm a passionate University of Maryland Computer Science and Mechanical Engineering student with experience in web development, computer systems, machine learning, AI, Computer-Aided Design, and object-oriented programming. I love challenging myself, learning new skills, and working with others to solve problems.
 
 ## My Skills 🧠
 
